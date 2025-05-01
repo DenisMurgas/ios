@@ -1,2 +1,1 @@
-file:///C:/Users/murga/Downloads/inc-project-master/zprava/zprava.pdf
-file:///C:/Users/murga/Downloads/xditej01/zprava.pdf
+https://github.com/pseja/ios-proj2/blob/main/proj2.c
